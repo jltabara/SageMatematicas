@@ -7,4 +7,5 @@
 * [Gráficas y objetos gráficos](SageMatematicas04.md)
 * [Análisis](SageMatematicas05.md)
 * Algebra lineal elemental
+* Álgebra lineal
 
