@@ -7,7 +7,7 @@
 * [Gráficas y objetos gráficos](SageMatematicas04.md)
 * [Análisis](SageMatematicas05.md)
 * [Álgebra lineal elemental](SageMatematicas06.md)
-* Álgebra lineal
+* [Álgebra lineal](SageMatematicas07.md)
 * Teoría de números
 * Cuaterniones
 * Grupos abelianos finitos
