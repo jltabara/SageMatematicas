@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Aritmética Básica](SageMatematicas01.md)
-* [Ecuaciones y sistemas](SageMatematicas02)
+* [Ecuaciones y sistemas](SageMatematicas02.md)
 * [Polinomios](SageMatematicas03.md)
 * [Gráficas y objetos gráficos](SageMatematicas04.md)
 * [Análisis](SageMatematicas05.md)
