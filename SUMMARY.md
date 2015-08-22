@@ -8,7 +8,7 @@
 * [Análisis](SageMatematicas05.md)
 * [Álgebra lineal elemental](SageMatematicas06.md)
 * [Álgebra lineal](SageMatematicas07.md)
-* Teoría de números
+* [Teoría de números](SageMatematicas08.md)
 * Cuaterniones
 * Grupos abelianos finitos
 
