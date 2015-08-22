@@ -8,4 +8,5 @@
 * [Análisis](SageMatematicas05.md)
 * [Álgebra lineal elemental](SageMatematicas06.md)
 * Álgebra lineal
+* Teoría de números
 
