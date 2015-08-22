@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Aritmética Básica](SageMatematicas01)
-* Ecuaciones y sistemas
+* [Ecuaciones y sistemas](SageMatematicas02)
 
