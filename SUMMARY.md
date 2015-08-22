@@ -9,4 +9,5 @@
 * [Álgebra lineal elemental](SageMatematicas06.md)
 * Álgebra lineal
 * Teoría de números
+* Cuaterniones
 
