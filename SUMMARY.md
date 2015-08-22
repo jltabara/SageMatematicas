@@ -6,6 +6,6 @@
 * [Polinomios](SageMatematicas03.md)
 * [Gráficas y objetos gráficos](SageMatematicas04.md)
 * [Análisis](SageMatematicas05.md)
-* Algebra lineal elemental
+* [Álgebra lineal elemental](SageMatematicas06.md)
 * Álgebra lineal
 
