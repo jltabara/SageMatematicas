@@ -10,5 +10,5 @@
 * [Álgebra lineal](SageMatematicas07.md)
 * [Teoría de números](SageMatematicas08.md)
 * [Cuaterniones](SageMatematicas09.md)
-* Grupos abelianos finitos
+* [Grupos abelianos finitos](SageMatematicas10.md)
 
