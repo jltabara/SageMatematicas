@@ -9,6 +9,6 @@
 * [Álgebra lineal elemental](SageMatematicas06.md)
 * [Álgebra lineal](SageMatematicas07.md)
 * [Teoría de números](SageMatematicas08.md)
-* Cuaterniones
+* [Cuaterniones](SageMatematicas09.md)
 * Grupos abelianos finitos
 
